@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,18:0f172a,36:111827,58:06b6d4,78:8b5cf6,100:22c55e&text=KRYPUTH&fontColor=f8fafc&fontAlignY=36&fontSize=68&desc=Full-stack%20engineer%20%7C%20Stellar%20%2B%20Soroban%20%7C%20DevOps%20%7C%20Network%20%26%20Security&descAlignY=58&animation=twinkling" width="100%" alt="kryputh hero banner" />
+  <img src="./assets/kryputh-banner.svg" width="100%" alt="kryputh hero banner" />
 </div>
 
 <div align="center">
@@ -22,15 +22,45 @@
 </div>
 
 <div align="center">
-  <pre>
-MISSION CONTROL // LIVE PROFILE SIGNAL
-
-chain_layer      :: Stellar / Soroban / protocol semantics / Rust
-product_layer    :: React / Vue / Angular / Django / full-stack delivery
-ops_layer        :: DevOps / CI-CD / Linux / containers / deployment flow
-security_layer   :: network engineering / pentesting / hardening mindset
-execution_mode   :: issue -> implementation -> tests -> docs -> green CI
-  </pre>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <strong>FRONTEND</strong><br/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0B1220" alt="React" /><br/>
+        <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" /><br/>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" /><br/>
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </td>
+      <td align="center" valign="top">
+        <strong>BACKEND</strong><br/>
+        <img src="https://img.shields.io/badge/Node.js-15803D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /><br/>
+        <img src="https://img.shields.io/badge/Django-14532D?style=flat-square&logo=django&logoColor=white" alt="Django" /><br/>
+        <img src="https://img.shields.io/badge/Express-1F2937?style=flat-square&logo=express&logoColor=white" alt="Express" /><br/>
+        <img src="https://img.shields.io/badge/NestJS-E11D48?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+      </td>
+      <td align="center" valign="top">
+        <strong>BLOCKCHAIN</strong><br/>
+        <img src="https://img.shields.io/badge/Stellar-0EA5E9?style=flat-square&logo=stellar&logoColor=white" alt="Stellar" /><br/>
+        <img src="https://img.shields.io/badge/Soroban-14B8A6?style=flat-square&logo=rust&logoColor=white" alt="Soroban" /><br/>
+        <img src="https://img.shields.io/badge/Rust-1F2937?style=flat-square&logo=rust&logoColor=white" alt="Rust" /><br/>
+        <img src="https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      </td>
+      <td align="center" valign="top">
+        <strong>OPS</strong><br/>
+        <img src="https://img.shields.io/badge/DevOps-7C3AED?style=flat-square&logo=githubactions&logoColor=white" alt="DevOps" /><br/>
+        <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" /><br/>
+        <img src="https://img.shields.io/badge/Docker-0891B2?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br/>
+        <img src="https://img.shields.io/badge/Linux-F59E0B?style=flat-square&logo=linux&logoColor=111827" alt="Linux" />
+      </td>
+      <td align="center" valign="top">
+        <strong>SECURITY</strong><br/>
+        <img src="https://img.shields.io/badge/Networking-F97316?style=flat-square&logo=cisco&logoColor=white" alt="Networking" /><br/>
+        <img src="https://img.shields.io/badge/Pentesting-DC2626?style=flat-square&logo=hackthebox&logoColor=white" alt="Pentesting" /><br/>
+        <img src="https://img.shields.io/badge/Hardening-475569?style=flat-square" alt="Hardening" /><br/>
+        <img src="https://img.shields.io/badge/Deployment-0F766E?style=flat-square&logo=vercel&logoColor=white" alt="Deployment" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
