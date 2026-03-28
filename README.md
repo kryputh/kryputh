@@ -1,112 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:0f766e,75:0ea5e9,100:22c55e&text=kryputh&fontColor=f8fafc&fontAlignY=38&fontSize=58&desc=Stellar%20native%20builder%20%7C%20Soroban%20contracts%20%7C%20Rust%20%2B%20TypeScript&descAlignY=58&animation=fadeIn" width="100%" alt="kryputh hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,18:0f172a,36:111827,58:06b6d4,78:8b5cf6,100:22c55e&text=KRYPUTH&fontColor=f8fafc&fontAlignY=36&fontSize=68&desc=Stellar-native%20builder%20%7C%20Soroban%20contracts%20%7C%20Frontend%20%2B%20Backend%20delivery&descAlignY=58&animation=twinkling" width="100%" alt="kryputh hero banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=1080&lines=Building+auditable+systems+on+Stellar;Shipping+Soroban+contracts+that+survive+real+CI;Turning+issues+into+merged+production+work;Rust%2C+TypeScript%2C+frontend%2C+backend%2C+protocol+logic" alt="typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=1200&lines=Soroban+contract+engineer;Stellar+product+builder;Rust+%2B+TypeScript+problem+solver;CI%2FCD+firefighter;Shipping+issues+into+green+checks" alt="typing intro" />
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Stellar-Native-0ea5e9?style=for-the-badge&logo=stellar&logoColor=white" alt="Stellar Native" />
-    <img src="https://img.shields.io/badge/Soroban-Contracts-0891b2?style=for-the-badge&logo=rust&logoColor=white" alt="Soroban Contracts" />
-    <img src="https://img.shields.io/badge/Rust-%2B-TypeScript-1e293b?style=for-the-badge&logo=typescript&logoColor=22c55e" alt="Rust and TypeScript" />
-    <img src="https://img.shields.io/badge/Open%20Source-Shipping-16a34a?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Shipping" />
-  </p>
+  <a href="https://github.com/kryputh?tab=followers">
+    <img src="https://img.shields.io/github/followers/kryputh?style=for-the-badge&color=0ea5e9&labelColor=111827" alt="followers badge" />
+  </a>
+  <a href="https://github.com/kryputh?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-34-8b5cf6?style=for-the-badge&labelColor=111827" alt="public repos badge" />
+  </a>
+  <a href="https://github.com/kryputh?tab=pull-requests&q=is%3Apr+is%3Aopen">
+    <img src="https://img.shields.io/badge/Open%20Source-Execution-22c55e?style=for-the-badge&labelColor=111827" alt="open source execution badge" />
+  </a>
+  <a href="https://github.com/kryputh">
+    <img src="https://img.shields.io/badge/Focus-Stellar%20%7C%20Soroban%20%7C%20Reliability-f59e0b?style=for-the-badge&labelColor=111827" alt="focus badge" />
+  </a>
+</div>
+
+<div align="center">
+  <pre>
+MISSION CONTROL // LIVE PROFILE SIGNAL
+
+chain_layer      :: Stellar / Soroban / protocol semantics
+product_layer    :: frontend UX / backend reliability / wallet flows
+execution_mode   :: issue -> implementation -> tests -> docs -> green CI
+reputation_lane  :: fixes that survive review, auditors, and production pressure
+  </pre>
 </div>
 
 ---
 
-## /about_me
+## SIGNAL // WHO I AM
 
-I build in the space where protocol logic, developer tooling, and product UX meet.
-Most of my recent work lives around **Stellar**, **Soroban smart contracts**, **TypeScript product engineering**, and **backend reliability**.
+I build where protocol logic, developer tooling, and product UX collide.
+Most of my public work sits around **Stellar**, **Soroban smart contracts**, **Rust**, **TypeScript**, **wallet-connected flows**, **backend reliability**, and **test-first issue delivery**.
 
-What matters to me is not just making something work once.
-I care about:
+I care about software that can be defended from the outside:
 
-- crisp protocol semantics
-- explicit failure behavior
-- tests that prove real behavior instead of happy-path theater
-- UI and backend systems that feel production-ready, not demo-ready
-- code that can survive review, CI, and future contributors
+- on-chain state, emitted events, and user-visible errors should tell the same story
+- CI should go green for a real reason, not because the checks got dodged
+- backend behavior should stay predictable when dependencies get ugly
+- frontend flows should reconcile against real network state, not pretend success
+- docs should explain the observable contract, not hide behind implementation trivia
 
-My public GitHub footprint right now is heavily shaped by shipping and fixing work across:
-
-- payment and streaming contracts
-- privacy and identity flows on Stellar
-- wallet-connected frontend experiences
-- backend observability, webhooks, and CI repair
-- developer-focused documentation and issue execution
-
-If a repo has failing tests, unclear behavior, or missing product polish, I like closing that gap fast and cleanly.
-
-> Current lane: Stellar-native products, Soroban protocol logic, Rust contract testing, and TypeScript frontend/backend delivery.
+If a repository has unclear semantics, broken tests, weak operator visibility, or rough product edges, that is exactly the kind of surface I like tightening.
 
 ---
 
-## /build_philosophy
+## LOADOUT // CORE STACK
 
-I like software that is easy to reason about from the outside.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,react,nextjs,nodejs,nestjs,postgres,docker,git,githubactions,vercel,vite&perline=13" alt="stack icons" />
+</div>
 
-- If a contract changes state, the event and stored value should tell the same story.
-- If an API can fail, the failure should be structured and understandable.
-- If a UI claims something happened on-chain, it should reconcile against real network state.
-- If CI is red, there should be a precise explanation and a precise fix.
-
-That mindset shows up in the kind of work I gravitate toward:
-
-1. tightening contract behavior so auditors and integrators do not need hidden assumptions
-2. fixing test and CI regressions until the whole matrix is green
-3. implementing backend reliability features that operators can actually trust
-4. building frontend experiences that make complex blockchain flows feel understandable
+<div align="center">
+  <img src="https://img.shields.io/badge/Stellar-Driven-0ea5e9?style=for-the-badge&logo=stellar&logoColor=white" alt="stellar badge" />
+  <img src="https://img.shields.io/badge/Soroban-Contracts-14b8a6?style=for-the-badge&logo=rust&logoColor=white" alt="soroban badge" />
+  <img src="https://img.shields.io/badge/Rust-Systems-1f2937?style=for-the-badge&logo=rust&logoColor=white" alt="rust badge" />
+  <img src="https://img.shields.io/badge/TypeScript-Products-2563eb?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
+  <img src="https://img.shields.io/badge/React-Interfaces-0891b2?style=for-the-badge&logo=react&logoColor=white" alt="react badge" />
+  <img src="https://img.shields.io/badge/Node.js-Services-15803d?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node badge" />
+</div>
 
 ---
 
-## /focus_areas
+## RADAR // WHAT I SHIP
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### Protocol Engineering
+### Protocol Work
 
-- Soroban contract implementation
-- funding, streaming, treasury, and auth semantics
-- event integrity and state transition guarantees
-- Rust test design for edge cases and regressions
-
-    </td>
-    <td width="50%" valign="top">
-
-### Product Delivery
-
-- wallet-connected flows
-- TypeScript and React interfaces
-- admin dashboards and operational visibility
-- backend services with explicit health and failure behavior
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### Reliability Work
-
-- CI/CD debugging
-- flaky test elimination
-- structured docs and runbook quality
-- keeping the full check matrix green
+- Soroban contract features with explicit success and failure semantics
+- event integrity, auth paths, conservation guarantees, and edge-case coverage
+- test suites that prove timing, overflow, pause, payout, and authorization behavior
+- contract docs that auditors and integrators can actually use
 
     </td>
     <td width="50%" valign="top">
 
-### Open Source Execution
+### Product Work
 
-- issue triage to PR delivery
-- contract docs and acceptance evidence
-- code review follow-up
-- practical shipping over vague discussion
+- wallet-connected pledge and payment flows
+- frontend admin surfaces for visibility and operational control
+- backend health, webhook trust, staging parity, and deployment behavior
+- issue-to-PR execution with acceptance criteria kept intact
 
     </td>
   </tr>
@@ -114,141 +97,104 @@ That mindset shows up in the kind of work I gravitate toward:
 
 ---
 
-## /toolbox
+## REPO RADAR // FEATURED SYSTEMS
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-0f172a?style=for-the-badge&logo=nestjs&logoColor=e0234e" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ed" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Stellar-0f172a?style=for-the-badge&logo=stellar&logoColor=7dd3fc" alt="Stellar" />
-  <img src="https://img.shields.io/badge/Soroban-0f172a?style=for-the-badge&logo=rust&logoColor=34d399" alt="Soroban" />
-</div>
-
----
-
-## /selected_builds
-
-These are the kinds of products and protocol surfaces I keep moving around:
-
-| Project | What it is | Link |
+| Repository | Signal | Why it matters |
 | --- | --- | --- |
-| `stellar-suite` | Soroban development toolkit focused on building, deploying, and managing contracts | [Open repo](https://github.com/kryputh/stellar-suite) |
-| `chioma` | Stellar-powered rental payment and housing coordination platform | [Open repo](https://github.com/kryputh/chioma) |
-| `fluid` | Gas abstraction on Stellar so users can pay fees with preferred assets | [Open repo](https://github.com/kryputh/fluid) |
-| `Alien-Gateway` | Privacy-oriented username system for sending crypto to `@username` instead of raw addresses | [Open repo](https://github.com/kryputh/Alien-Gateway) |
-| `stellar-goal-vault` | Goal-based crowdfunding flow with wallet-connected pledge execution | [Open repo](https://github.com/kryputh/stellar-goal-vault) |
-| `Fluxora-Contracts` | Soroban streaming contract work centered on semantics, tests, and CI correctness | [Open repo](https://github.com/kryputh/Fluxora-Contracts) |
-| `Tradazone` | Crypto invoicing product for freelancers and global payments | [Open repo](https://github.com/kryputh/Tradazone) |
-| `Fluxora-Backend` | Backend reliability, health semantics, and operational behavior for streaming infrastructure | [Open repo](https://github.com/kryputh/Fluxora-Backend) |
+| [stellar-suite](https://github.com/kryputh/stellar-suite) | Soroban tooling | Contract development and management flows around Stellar-native builders |
+| [chioma](https://github.com/kryputh/chioma) | Real-world product UX | Housing and rental flows with Stellar-backed payment surfaces |
+| [fluid](https://github.com/kryputh/fluid) | Infrastructure | Gas abstraction, webhook trust, notifications, and operator-focused backend work |
+| [Alien-Gateway](https://github.com/kryputh/Alien-Gateway) | Identity + privacy | Username-based crypto routing and contract-level behavior hardening |
+| [Fluxora-Contracts](https://github.com/kryputh/Fluxora-Contracts) | Streaming semantics | Contract invariants, event correctness, top-up behavior, and CI repair |
+| [Fluxora-Backend](https://github.com/kryputh/Fluxora-Backend) | Service reliability | Health semantics, readiness surfaces, idempotency, and staging parity |
+| [stellar-goal-vault](https://github.com/kryputh/stellar-goal-vault) | Wallet execution | Freighter-powered pledge flows with on-chain reconciliation |
+| [Tradazone](https://github.com/kryputh/Tradazone) | Product polish | Richer user-facing payment and invoicing experiences |
 
 ---
 
-## /what_i_usually_ship
+## OPERATING STYLE // HOW I WORK
 
-When I am deep in a repo, it is usually one of these:
+I like codebases that need clarity, not ceremony.
 
-- implementing or hardening Soroban contract entrypoints
-- making tests prove on-chain semantics instead of vague intent
-- wiring wallets into frontend flows with real network reconciliation
-- improving backend observability, webhook trust, and deployment behavior
-- fixing broken PRs until all checks pass together, not one by one in isolation
-- turning issue descriptions into merged, review-ready work with documentation
+- define the protocol or product behavior in observable terms
+- tighten the auth and failure semantics until they are easy to reason about
+- write or repair the tests that prove those semantics
+- align docs with the actual behavior clients and operators will see
+- keep the entire check matrix green instead of fixing one test at a time and hoping
 
-I am especially comfortable in repos where the problem is not just "write code" but:
+What I optimize for:
 
-- define the success semantics
-- define the failure semantics
-- prove it with tests
-- align docs with the actual behavior
-- keep the whole pipeline green
+- defensible behavior
+- readable diffs
+- green CI for the whole repo
+- developer trust
+- operator trust
+- production-readiness over demo-readiness
 
 ---
 
-## /graph_observatory
-
-The section below is intentionally live.
-It gives a fast visual read on how I am working, where I am spending effort, and how my GitHub activity is evolving.
+## GRAPH ARRAY // LIVE TELEMETRY
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kryputh&theme=github_dark" width="100%" alt="Profile details graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kryputh&theme=tokyonight" width="100%" alt="profile details graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kryputh&theme=github_dark" width="49%" alt="Most commit language graph" />
-  <img src="https://streak-stats.demolab.com?user=kryputh&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D" width="49%" alt="GitHub streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kryputh&theme=tokyonight" width="49%" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kryputh&theme=tokyonight&utcOffset=1" width="49%" alt="productive time graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kryputh&bg_color=0f172a&color=22c55e&line=38bdf8&point=f8fafc&area=true&hide_border=true&radius=16" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kryputh&bg_color=0f172a&color=22d3ee&line=8b5cf6&point=f8fafc&area=true&hide_border=true" width="100%" alt="activity graph" />
 </div>
 
 ---
 
-## /current_direction
+## CURRENT TARGET LOCK // WHAT I WANT MORE OF
 
-Right now my strongest public signal is in:
-
-- Stellar and Soroban ecosystem repos
-- contract semantics and edge-case test coverage
-- wallet, webhook, and backend reliability flows
-- issue-to-PR open source execution
-
-I am interested in work where I can contribute across multiple layers instead of being boxed into one:
-
-- protocol logic
-- backend systems
-- frontend experience
-- CI health
-- docs that developers and auditors can actually use
-
----
-
-## /collaboration_style
-
-If we work together, this is what you can expect from me:
-
-- direct communication
-- practical fixes instead of vague status reports
-- attention to acceptance criteria
-- willingness to trace failures all the way from CI logs back to code
-- clean, reviewable diffs with clear scope
-- focus on making behavior observable and defensible
-
-I prefer shipping work that is easy to inspect later.
-That means:
-
-- naming things clearly
-- keeping tests close to behavior
-- documenting what is intentionally in scope and what is not
-- avoiding silent assumptions in product or protocol code
-
----
-
-## /lets_build
-
-I am always interested in meaningful work around:
+I am especially interested in work that spans multiple layers at once:
 
 - Stellar-native products
 - Soroban smart contracts
-- developer tooling
-- protocol and backend reliability
-- frontend experiences that make hard systems feel clear
+- backend services with crisp reliability guarantees
+- frontend interfaces for complex financial or protocol flows
+- CI and release quality in repos that actually need discipline
 
-If that sounds like your lane too, explore my repositories or open the conversation on GitHub:
-
-- [GitHub profile](https://github.com/kryputh)
-- [Repositories](https://github.com/kryputh?tab=repositories)
-- [Pull requests](https://github.com/pulls?q=is%3Apr+author%3Akryputh)
+If the problem needs protocol thinking, product judgment, test rigor, and direct execution, I am in the right zone.
 
 ---
 
+## COLLABORATION MODE // WHAT YOU CAN EXPECT
+
+- direct communication
+- pragmatic implementation
+- sharp attention to acceptance criteria
+- traces from CI failure back to root cause
+- code and docs that are easy to review later
+- no fake progress reports
+
+I prefer work that is observable, explainable, and difficult to misread.
+That applies to contracts, services, tests, dashboards, and documentation alike.
+
+---
+
+## LINK-UP // EXPLORE THE WORK
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:020617,25:0f172a,50:0f766e,75:0ea5e9,100:22c55e" width="100%" alt="footer banner" />
+  <a href="https://github.com/kryputh">
+    <img src="https://img.shields.io/badge/Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="profile link" />
+  </a>
+  <a href="https://github.com/kryputh?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="repositories link" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Akryputh">
+    <img src="https://img.shields.io/badge/Pull%20Requests-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="pull requests link" />
+  </a>
+  <a href="https://github.com/issues?q=author%3Akryputh">
+    <img src="https://img.shields.io/badge/Issues-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="issues link" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:050816,18:0f172a,36:111827,58:06b6d4,78:8b5cf6,100:22c55e" width="100%" alt="footer banner" />
 </div>
