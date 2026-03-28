@@ -52,6 +52,10 @@ I care about software that can be defended from the outside:
 
 If a repository has unclear semantics, broken tests, weak operator visibility, or rough product edges, that is exactly the kind of surface I like tightening.
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kryputh&theme=tokyonight" width="100%" alt="profile details graph" />
+</div>
+
 ---
 
 ## LOADOUT // CORE STACK
@@ -76,6 +80,10 @@ If a repository has unclear semantics, broken tests, weak operator visibility, o
   <img src="https://img.shields.io/badge/Angular-Structured%20Apps-b91c1c?style=for-the-badge&logo=angular&logoColor=white" alt="angular badge" />
   <img src="https://img.shields.io/badge/Django-Backend%20Systems-14532d?style=for-the-badge&logo=django&logoColor=white" alt="django badge" />
   <img src="https://img.shields.io/badge/Node.js-Services-15803d?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node badge" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kryputh&theme=tokyonight" width="72%" alt="stats graph" />
 </div>
 
 ---
@@ -132,6 +140,10 @@ If a repository has unclear semantics, broken tests, weak operator visibility, o
 | [stellar-goal-vault](https://github.com/kryputh/stellar-goal-vault) | Wallet execution | Freighter-powered pledge flows with on-chain reconciliation |
 | [Tradazone](https://github.com/kryputh/Tradazone) | Product polish | Richer user-facing payment and invoicing experiences |
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kryputh&bg_color=0f172a&color=22d3ee&line=8b5cf6&point=f8fafc&area=true&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
 ---
 
 ## OPERATING STYLE // HOW I WORK
@@ -157,23 +169,6 @@ What I optimize for:
 
 ---
 
-## GRAPH ARRAY // LIVE TELEMETRY
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kryputh&theme=tokyonight" width="100%" alt="profile details graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kryputh&theme=tokyonight" width="49%" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kryputh&theme=tokyonight&utcOffset=1" width="49%" alt="productive time graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kryputh&bg_color=0f172a&color=22d3ee&line=8b5cf6&point=f8fafc&area=true&hide_border=true" width="100%" alt="activity graph" />
-</div>
-
----
-
 ## CURRENT TARGET LOCK // WHAT I WANT MORE OF
 
 I am especially interested in work that spans multiple layers at once:
@@ -189,6 +184,10 @@ I am especially interested in work that spans multiple layers at once:
 - CI and release quality in repos that actually need discipline
 
 If the problem needs protocol thinking, product judgment, test rigor, and direct execution, I am in the right zone.
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kryputh&theme=tokyonight&utcOffset=1" width="72%" alt="productive time graph" />
+</div>
 
 ---
 
