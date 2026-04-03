@@ -116,6 +116,7 @@ If a repository has unclear semantics, broken tests, weak operator visibility, o
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kryputh&theme=tokyonight" width="72%" alt="stats graph" />
 </div>
 
+[![Kryputh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kryputh)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## RADAR // WHAT I SHIP
